@@ -1,25 +1,24 @@
 # 👋 Hello, I'm Suman Roy
 
-### 💼 Aspiring Data Analyst | Business Analyst 
+### 💼 Aspiring Data Analyst
 🔹 Turning raw data into actionable insights using **Power BI, Tableau Python, SQL & Microsoft Excel**  
-🔹 Currently building my portfolio to transition into a full-time **Data Analyst | Business Analyst** role.
+🔹 Currently building my portfolio to transition into a full-time **Data Analyst, Business Analyst** role.
 
 ---
 
 ## 🛠️ Skills
 
 ### Data Handling & Manipulation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
 ### Data Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel Charts](https://img.shields.io/badge/Excel%20Charts-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
