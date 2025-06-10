@@ -62,7 +62,7 @@ A case study using **Advanced Excel** to analyze HR data, uncovering trends in a
 ---
 
 ### 🛒 Ecommerce Sales Dashboard 
-Business Case study using **Advanced Excel** aand **Power BI** to analyze and optimize sales performance across different dimensions like state, product category, and payment method. 
+Business Case study using **Advanced Excel** and **Power BI** to analyze and optimize sales performance across different dimensions like state, product category, and payment method. 
 This dashboard empowers data-driven decisions at every level, from inventory to marketing.
 
 [🔗 View Project on GitHub](https://github.com/SumanRoySR/Ecommerce-Sales-Dashboard---Power-BI)
