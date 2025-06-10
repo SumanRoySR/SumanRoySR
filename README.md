@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Suman Roy
 
-### 💼 Aspiring Data Analyst  
+### 💼 Aspiring Data Analyst | Business Analyst 
 🔹 Turning raw data into actionable insights using **Power BI, Tableau Python, SQL & Microsoft Excel**  
 🔹 Currently building my portfolio to transition into a full-time **Data Analyst | Business Analyst** role.
 
