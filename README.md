@@ -19,8 +19,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel Charts](https://img.shields.io/badge/Excel%20Charts-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -60,13 +58,12 @@ A case study using **Advanced Excel** to analyze HR data, uncovering trends in a
 
 ---
 
-### 🛒 Ecommerce Sales Dashboard 
-Business case study using **Advanced Excel** and **Power BI** to analyze and optimize sales performance across different dimensions like state, product category, and payment method. 
-This dashboard empowers data-driven decisions at every level, from inventory to marketing.
+### 🚗 ROAD ACCIDENT DASHBOARD
+This Power BI dashboard supports **data-driven decision-making for stakeholders in transport planning, public safety, and policy-making** by helping them identify **high-risk areas, optimize resource allocation, and implement effective strategies** to improve **road safety and reduce accident rates**.
 
-[🔗 View Project on GitHub](https://github.com/SumanRoySR/Ecommerce-Sales-Dashboard---Power-BI)
+[🔗 View Project on GitHub](https://github.com/SumanRoySR/Road-Accident-Dashboard-)
 
-![Data Model](https://github.com/SumanRoySR/Ecommerce-Sales-Dashboard---Power-BI/blob/main/Dashboard%20image.png)
+![Data Model](https://github.com/SumanRoySR/Road-Accident-Dashboard-/blob/main/Dashboard.png)
 
 ---
 
