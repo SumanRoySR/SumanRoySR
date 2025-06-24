@@ -59,7 +59,7 @@ A case study using **Advanced Excel** to analyze HR data, uncovering trends in a
 ---
 
 ### 🚗 ROAD ACCIDENT DASHBOARD
-This Power BI dashboard supports **data-driven decision-making for stakeholders in transport planning, public safety, and policy-making** by helping them identify **high-risk areas, optimize resource allocation, and implement effective strategies** to improve **road safety and reduce accident rates**.
+This **Power BI** dashboard supports data-driven decision-making for stakeholders in transport planning, public safety, and policy-making by helping them identify high-risk areas, optimize resource allocation, and implement effective strategies to improve road safety and reduce accident rates.
 
 [🔗 View Project on GitHub](https://github.com/SumanRoySR/Road-Accident-Dashboard-)
 
