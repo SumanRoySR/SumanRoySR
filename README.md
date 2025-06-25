@@ -38,8 +38,6 @@
 
 ## 🧠 Featured Projects
 
-Click on any project image to dive into the full case study & code 👇
-
 ### 📊 Blinkit Performance Analysis
 A case study project for Blinkit, using **Excel** to simulate a real-world analytics scenario focused on uncovering customer behaviour, sales trends, and operational insights to identify key insights and opportunities for optimizing using various KPIs and visualization.
 
