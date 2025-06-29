@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Suman Roy
 
 ### 💼 Aspiring Data Analyst
-🔹 Turning raw data into actionable insights using **Power BI, Tableau Python, SQL & Microsoft Excel**  
+🔹 Turning raw data into actionable insights using **Power BI, Tableau, Python, SQL & Microsoft Excel**  
 🔹 Currently building my portfolio to transition into a full-time **Data Analyst, Business Analyst** role.
 
 ---
@@ -9,23 +9,40 @@
 ## 🛠️ Skills
 
 ### Data Handling & Manipulation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=database&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=google-sheets&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
 
 
 ### Data Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel Charts](https://img.shields.io/badge/Excel%20Charts-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel Charts](https://img.shields.io/badge/Excel_Charts-217346?logo=microsoft-excel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
 
 
 ### Database  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+
+### IDE
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📃 Certifications
+
+#### [🔗 Google Data Analytics Professional certificate](https://github.com/SumanRoySR/Certificates/blob/main/Google%20Data%20Analytics%20Professional%20certificate.pdf)
+#### [🔗 Excel Skills for Business Certificate](https://github.com/SumanRoySR/Certificates/blob/main/Excel%20Skills%20for%20Business%20Certificate.pdf)
+#### [🔗 Power BI Certificate](https://github.com/SumanRoySR/Certificates/blob/main/Power%20BI%20Certificate.pdf)
+#### [🔗 IBM SQL certificate](https://github.com/SumanRoySR/Certificates/blob/main/IBM%20SQL%20certificate.pdf)
 
 ---
 
