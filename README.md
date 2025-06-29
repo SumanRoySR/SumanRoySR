@@ -40,9 +40,9 @@
 ## 📃 Certifications
 
 #### [🔗 Google Data Analytics Professional certificate](https://github.com/SumanRoySR/Certificates/blob/main/Google%20Data%20Analytics%20Professional%20certificate.pdf)
-#### [🔗 Excel Skills for Business Certificate](https://github.com/SumanRoySR/Certificates/blob/main/Excel%20Skills%20for%20Business%20Certificate.pdf)
+#### [🔗 Advanced Excel Skills for Business Certificate](https://github.com/SumanRoySR/Certificates/blob/main/Excel%20Skills%20for%20Business%20Certificate.pdf)
 #### [🔗 Power BI Certificate](https://github.com/SumanRoySR/Certificates/blob/main/Power%20BI%20Certificate.pdf)
-#### [🔗 IBM SQL certificate](https://github.com/SumanRoySR/Certificates/blob/main/IBM%20SQL%20certificate.pdf)
+#### [🔗 SQL certificate](https://github.com/SumanRoySR/Certificates/blob/main/IBM%20SQL%20certificate.pdf)
 
 ---
 
